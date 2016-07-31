@@ -1,6 +1,7 @@
 {
   "name": "ng2-jukebox",
-  "version": "0.0.0",
+  "version": "0.0.1",
+  "versionName": "Aphroman",
   "license": "MIT",
   "angular-cli": {},
   "scripts": {
