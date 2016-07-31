@@ -19,5 +19,9 @@
   "files": [
     "main.ts",
     "typings.d.ts"
+  ],
+  "filesGlob": [
+    "!src/system-config.ts",
+    "**/!(.spec)*.ts"
   ]
 }
